@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         //testing dulu
 
+        //tambah fungsi lagi skuy
+
     }
 }
