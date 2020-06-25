@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         //tambah fungsi lagi skuy
 
+        //fitur login
+
     }
 }
